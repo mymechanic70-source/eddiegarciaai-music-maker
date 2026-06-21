@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "EddieGarciaAI Music Maker",
+    "slug": "eddiegarciaai-music-maker",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.eddiegarciaai.musicmaker"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.eddiegarciaai.musicmaker"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
